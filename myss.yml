@@ -59,7 +59,7 @@ proxies:
       mode: websocket
       path: "/"
   - name: hk-bank1
-    port: 50707
+    port: 50915
     server: 154.12.25.246
     type: ss
     udp: true
