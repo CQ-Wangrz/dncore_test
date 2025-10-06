@@ -47,7 +47,7 @@ tun:
     - 1.0.0.1
 proxies:
   - name: hk-bank
-    port: 50930
+    port: 51006
     server: 103.97.178.197
     type: ss
     udp: true
@@ -59,7 +59,7 @@ proxies:
       mode: websocket
       path: "/"
   - name: hk-bank1
-    port: 50930
+    port: 51006
     server: 154.12.25.246
     type: ss
     udp: true
@@ -71,7 +71,7 @@ proxies:
       mode: websocket
       path: "/"
   - name: hf-cloud
-    port: 50930
+    port: 51006
     server: 104.168.54.188
     type: ss
     udp: true
